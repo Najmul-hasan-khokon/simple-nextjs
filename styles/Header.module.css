@@ -1,0 +1,17 @@
+.list_item ul {
+  width: 20%;
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+}
+
+.list_item ul li {
+  background-color: red;
+  color: white;
+  padding: 10px 20px;
+  margin: 0 10px;
+}
+
+.list_item ul li:hover {
+  background-color: black;
+}
